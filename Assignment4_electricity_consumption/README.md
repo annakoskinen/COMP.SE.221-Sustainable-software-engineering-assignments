@@ -19,7 +19,7 @@ Key configuration
 ## Installation and running
 - Clone the repository <https://github.com/annakoskinen/COMP.SE.221-Sustainable-software-engineering-assignments.git>
 - In the Assignment4_electricity_consumption folder:
-    - Install required libraries found in requirements.txt
+    - Install required libraries found in requirements.txt with 'pip install -r requirements.txt'
     - Run the application with command 'python main.py'
 
 ## An example run

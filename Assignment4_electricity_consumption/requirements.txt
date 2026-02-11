@@ -1,8 +1,3 @@
-Required Python libraries:
-
-- requests, https://pypi.org/project/requests/
-    - pip install requests
-- Matplotlib, https://matplotlib.org/stable/users/getting_started/
-    - pip install matplotlib
-- dotenv, https://pypi.org/project/python-dotenv/
-    - pip install python-dotenv
+requests
+matplotlib
+python-dotenv
