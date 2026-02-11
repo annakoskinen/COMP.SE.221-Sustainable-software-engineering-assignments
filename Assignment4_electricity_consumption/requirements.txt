@@ -1,0 +1,5 @@
+Required Python libraries:
+
+- requests, https://pypi.org/project/requests/
+- Matplotlib, https://matplotlib.org/stable/users/getting_started/
+- dotenv, https://pypi.org/project/python-dotenv/
