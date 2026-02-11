@@ -16,11 +16,11 @@ An example run
 - The application first prints some info about it
 - Then start date is asked as an input from the user and the chart is saved as an image
 
-## Electricity consumption in Finland ##
-# average and the highest value per day in a week from a chosen start date #
+"## Electricity consumption in Finland ##"
+"# average and the highest value per day in a week from a chosen start date #"
 
 Input start in format YYYY-MM-DD
 Start date: 2026-02-01
 Chart saved as electricity_consumption.png
 
-![Example run chart](image.png)
+![Example run chart](electricity_consumption.png)
